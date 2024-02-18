@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Abu Bashar",
+            "username": "mrwebcoder",
+            "email": "mrwebcoder.me@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Anis",
+            "username": "anis012",
+            "email": "anis012@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Ali Hossain",
+            "username": "mrali",
+            "email": "mrali.me@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Saiful Islam",
+            "username": "kjbh241",
+            "email": "saiful.me@gmail.com"
+        }
+    ]
+}
